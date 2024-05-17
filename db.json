@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Szymon"
+    }
+  ],
+  "prefs": [
+    {
+      "theme": "blue"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "userId": "1",
+      "content": "Hello!"
+    }
+  ],
+  "weather": [
+    {
+      "id": "1",
+      "name": "Rainy"
+    },
+    {
+      "id": "2",
+      "name": "Sunny"
+    },
+    {
+      "id": "3",
+      "name": "Cloudy"
+    }
+  ]
+}
